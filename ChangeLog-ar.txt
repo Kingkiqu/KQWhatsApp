@@ -1,0 +1,41 @@
+{"version_code":451219,"content":"
+<p>تحديث 6.10 (Update)</p>
+
+
+<li>اضافة المزيد من الحمايه ضد الحظر</li>
+
+<li>أضافة يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
+
+<li> إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري)  </li>
+
+<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
+
+<li>أضافة خيار مراسلة رقم غير محفوظ بشكل متطور</li>
+
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+
+<li>اضافة خطوط جديده للواتساب وبدون تحميل كل ماعليك هو اختيار الخط فقط</li>
+
+<li> تحسين خيار الوضع المظلم للاعدادات</li>
+
+<li> والمزيد...</li>
+
+
+<li> Add more protection Anti ban</li>
+
+<li> Improved Privacy Settings</li>
+
+<li>Added show Toast When Anyone Views your Status/Story</li>
+
+<li> Show Blue ticks after reply! (mark message as read, only when you reply)</li>
+
+<li>Added Ability to download profile image</li>
+
+<li>Enabled All hidden features..</li>
+
+<li> Now you can send message to unsaved Number</li>
+
+
+","url":"http://www.crocodile3.blogspot.com/2019/08/crocodile.html"
+
+}
