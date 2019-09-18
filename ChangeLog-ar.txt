@@ -1,4 +1,4 @@
-{"version_code":452894,"content":"
+{"version_code":452892,"content":"
 <p>تحديث 6.10 (Update)</p>
 
 
