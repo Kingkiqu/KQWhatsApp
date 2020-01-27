@@ -1,41 +1,31 @@
-{"version_code":452892,"content":"
-<p>تحديث 6.10 (Update)</p>
+{ "VERSION_CODE": 452893، "المحتوى": "
+<p>تحديث | التحديث 7.97</p>
 
 
-<li>اضافة المزيد من الحمايه ضد الحظر</li>
+<li>زيادة اعادة التوجية الى مالانهاية</li>
 
 <li>أضافة يمكنك الان ايقاف الانترنت عن الواتساب ويبقى الانترنت يعمل في البرامج الاخرى</li>
 
-<li> إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري)  </li>
+<li>زيادة مدة حجم الحالة إلى أكثر من 10 دقائق</li>
 
-<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
+<li> يمكنك الان تثبيت اكثر من 1000 محادثة </li>
 
-<li>أضافة خيار مراسلة رقم غير محفوظ بشكل متطور</li>
+<li> نسخة تعمل مع الاجهزة القديمة بدون اي مشاكل او انه اختيارات</li>
 
 <li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
 
-<li>اضافة خطوط جديده للواتساب وبدون تحميل كل ماعليك هو اختيار الخط فقط</li>
+<li> إصلاح مشكلة الثيمات واضافة سرفر ثيمات يحتوي على أكثر من 1000 ثيم جديد</li>
 
-<li> تحسين خيار الوضع المظلم للاعدادات</li>
+<li> تمديد عمر النسخه 4 اشهر</li>
 
-<li> والمزيد...</li>
+<li> زيادة مدة الحالة لأكثر من 10 دقائق</li>
 
+<li> الزيادة إلى الأمام إلى ما لا نهاية</li>
 
-<li> Add more protection Anti ban</li>
+<li>أصبح الإصدار مضادًا للفيروسات وسريعًا في برنامج الإرسال</li>
 
-<li> Improved Privacy Settings</li>
-
-<li>Added show Toast When Anyone Views your Status/Story</li>
-
-<li> Show Blue ticks after reply! (mark message as read, only when you reply)</li>
-
-<li>Added Ability to download profile image</li>
-
-<li>Enabled All hidden features..</li>
-
-<li> Now you can send message to unsaved Number</li>
+<li>إصلاحات وتحسينات أخرى اكتشفتها بنفسك</li>
 
 
 ","url":"http://www.crocodile3.blogspot.com/2019/08/crocodile.html"
-
 }
